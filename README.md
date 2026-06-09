@@ -1,83 +1,90 @@
-# Terms of Service for Gamerie
+# Gamerie — Terms of Service
+**Last updated: June 08, 2026 — Effective: June 08, 2026**
 
-_Last Updated: September 12, 2025_
+## 1. Acceptance of these Terms
+Welcome to Gamerie. These Terms of Service ("Terms") are a binding agreement between you and Gamerie Corp ("Gamerie," "we," "us"). By creating an account or using our website at gamerie.gg, related subdomains including mvp.gamerie.gg and tournaments.gamerie.gg, and associated apps (together, the "Platform"), you agree to these Terms and to our Privacy Policy, Cookie Policy, Minors & Age-Gate Policy, and Community Guidelines. If you do not agree, do not use the Platform.
 
-**IMPORTANT NOTICE: THESE TERMS OF SERVICE CONTAIN A MANDATORY ARBITRATION PROVISION AND A CLASS ACTION WAIVER, WHICH AFFECT YOUR LEGAL RIGHTS. PLEASE READ THEM CAREFULLY.**
+## 2. Who can use Gamerie
+- You must be at least **16 years old** (or the minimum age required by law in your country) to create an account.
 
-Welcome to **Gamerie**! We're building a professional network to connect esports gamers, teams, scouts, and organizations. These Terms of Service ("Terms") govern your access to and use of the Gamerie website, applications, and services (collectively, the "Platform").
+- Younger users may only use the Platform where permitted by applicable law and with verifiable parental consent, as described in our Minors & Age-Gate Policy.
 
-By creating an account or using our Platform, you agree to be bound by these Terms.
+- You agree to provide accurate information and keep your account secure. You are responsible for all activity under your account.
 
-## 1. Who Can Use Gamerie?
+## 3. Your account and Gamerie ID
+- Your Gamerie account and verified identity ("Gamerie ID") are personal to you. You may not impersonate others, sell or transfer your account, or create accounts to evade bans or restrictions.
 
-You must be at least 16 years old to use the Platform. If you are under the age of 18, you represent that you have your parent or legal guardian's permission to use the Platform and that they have read and agreed to these Terms on your behalf.
+- We may verify your identity and may suspend or permanently close accounts that violate these Terms.
 
-## 2. Your Account
+## 4. Tournaments, entry fees, and prizes
+- The Platform allows organizers to run tournaments and, where legally permitted, to charge entry fees and award prizes.
 
-### Account Creation
+- **Payments and prize disbursements are processed by Stripe Connect.** Gamerie does not act as a bank, does not hold your funds as a deposit-taking institution, and does not guarantee prizes. Stripe handles all money movement and identity verification for payouts.
 
-You agree to provide accurate, current, and complete information during the registration process.
+- Gamerie charges a platform commission of **5%** on applicable paid tournaments.
 
-### Account Security
+- Availability of paid-entry tournaments varies by country and is subject to local law. Where paid entry is not legally permitted, only free-entry formats with sponsor-funded prizes are available.
 
-You are responsible for safeguarding your password and for all activities that occur under your account. You must notify us immediately of any unauthorized use of your account. Gamerie is not liable for any loss or damage arising from your failure to comply with this requirement.
+- **Minors may not pay entry fees or receive monetary prizes** except as expressly permitted under our Minors & Age-Gate Policy and applicable law.
 
-## 3. Your Content & Our License
+- You are solely responsible for any taxes applicable to prizes you receive.
 
-### You Own Your Content
+## 5. Fair play and competitive integrity
+- Cheating, match-fixing, collusion, use of unauthorized software, account sharing, smurfing, or any manipulation of results is strictly prohibited.
 
-You retain ownership of all the content you post, upload, or share on the Platform, including your profile information, posts, gameplay clips, comments, and messages ("User Content").
+- Violations may result in immediate disqualification, forfeiture of any prizes, account suspension or permanent ban, and where appropriate, reporting to relevant authorities or game publishers.
 
-### Our License to Your Content
+- We may record and verify match data to maintain competitive integrity across the Platform.
 
-By submitting User Content, you grant Gamerie a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, host, store, reproduce, modify, create derivative works, communicate, publish, publicly perform, and publicly display such content. This license is for the limited purpose of operating, developing, providing, and improving the Platform and promoting our services. This license ends when you delete your User Content or your account.
+## 6. Your content
+- You retain ownership of content you post on the Platform (posts, clips, profile data, and other materials).
 
-## 4. Acceptable Use Policy
+- By posting content, you grant Gamerie a worldwide, non-exclusive, royalty-free licence to host, display, and distribute that content on and in connection with the Platform.
 
-You agree not to do any of the following:
+- You are responsible for your content and must have all necessary rights to post it. You must not post unlawful, infringing, hateful, or harmful content. See our Community Guidelines for full conduct standards.
 
-- Post, upload, or share any content that is illegal, fraudulent, defamatory, hateful, discriminatory, threatening, or harassing.
-- Engage in any form of cheating, account selling, boosting, or any other activity that violates the terms of service of any game publisher.
-- Impersonate any person or entity or falsely state your affiliation with any person or entity.
-- Use the Platform for spam, phishing, or to distribute malware.
-- Attempt to reverse engineer, decompile, or otherwise access the source code of the Platform.
-- Use any automated system (bots, scrapers, etc.) to access the Platform or collect information from it without our express written permission.
+## 7. Your verified data
+- We process your data as described in our Privacy Policy.
 
-We reserve the right to remove any content and terminate or suspend any account that violates these rules without notice.
+- We may create aggregated and de-identified data and insights from Platform activity. Data relating to minors is excluded from all such datasets.
 
-## 5. The Gamerie Platform
+- Your verified competitive record (match results, performance data) is stored permanently on your Gamerie profile unless you request deletion in accordance with our Privacy Policy.
 
-### Our Intellectual Property
+## 8. Game publishers and third-party rights
+- Games played on the Platform are owned by their respective publishers. You must comply with those publishers' terms, community guidelines, and competition rules.
 
-The Gamerie name, logo, visual design, and all related intellectual property are owned by [Your Company Name, LLC]. You may not use them without our prior written permission.
+- Gamerie is not affiliated with or endorsed by any game publisher unless expressly stated.
 
-### Availability
+## 9. Prohibited conduct
+You agree not to:
 
-We strive to keep the Platform operational, but it may be unavailable from time to time for maintenance or other reasons. We are not liable for any downtime.
+- Break any applicable law or regulation
 
-## 6. Termination
+- Infringe the intellectual property or other rights of any person
 
-You are free to stop using our Platform at any time. We may also terminate or suspend your access to the Platform at our discretion, without notice, for any conduct that we believe violates these Terms or is harmful to other users, us, or third parties.
+- Harass, abuse, threaten, or harm other users
 
-## 7. Disclaimers and Limitation of Liability
+- Cheat, defraud, or manipulate any tournament, result, or payment
 
-THE PLATFORM IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES OF ANY KIND. WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+- Scrape, copy, or misuse Platform data
 
-TO THE FULLEST EXTENT PERMITTED BY LAW, GAMERIE AND ITS AFFILIATES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES.
+- Attempt to breach or circumvent security measures
 
-## 8. Governing Law and Dispute Resolution
+- Use the Platform in any way that facilitates illegal gambling or betting
 
-These Terms shall be governed by the laws of the State of Delaware, USA, without regard to its conflict of law provisions.
+- Take any action that could harm minors using the Platform
 
-Any dispute arising from these Terms shall be resolved through final and binding arbitration, rather than in court. You agree to waive your right to participate in a class action lawsuit or class-wide arbitration.
+## 10. Suspension and termination
+We may suspend or permanently terminate your access to the Platform for any breach of these Terms, to protect the Platform and its users, or as required by law. You may close your account at any time by contacting support@gamerie.gg.
 
-## 9. General Terms
+## 11. Disclaimers and limitation of liability
+The Platform is provided "as is" and "as available." To the fullest extent permitted by applicable law, Gamerie disclaims all warranties and limits its liability in connection with your use of the Platform. Gamerie is not liable for the actions of other users, for prize disputes between players and organizers, or for any failure of third-party services including Stripe.
 
-### Changes to Terms
+## 12. Changes to these Terms
+We may update these Terms from time to time. We will post the updated version with a revised "Last updated" date. Where required by law, we will notify you directly. Continued use of the Platform after changes take effect means you accept the updated Terms.
 
-We may modify these Terms from time to time. If we make material changes, we will provide you with notice through our Platform or by other means. Your continued use of the Platform after the changes have been implemented will constitute your acceptance of the changes.
+## 13. Governing law and disputes
+These Terms are governed by the laws of the **State of Delaware, USA**, without regard to conflict-of-law principles. Any dispute arising from or relating to these Terms that cannot be resolved informally shall be resolved through binding arbitration under Delaware law. Both parties agree to attempt good-faith resolution before initiating formal proceedings.
 
-### Contact Us
-
-If you have any questions about these Terms, please contact us at:  
-**info@gamerie.gg**
+## 14. Contact
+**Gamerie Corp** 1111b South Governors Avenue, STE 58952, Dover, DE 19904, United States Email: **support@gamerie.gg**
